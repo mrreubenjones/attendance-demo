@@ -1,10 +1,16 @@
 body {
   background-color: #eee;
   margin: 0;
-  padding: 50px;
+  /*padding: 50px;*/
   width: 100vw;
   height: 100vh;
   font-family: Helvetica, sans-serif;
+  font-size: 5.4em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  opacity: 0.8;
 }
 
 ul {
@@ -13,5 +19,8 @@ ul {
 }
 
 h1 {
-  font-weight: 100;
+  background-color: yellow;
+  margin: 0;
+  display: inline-block;
+  border: 100px solid DeepPink;
 }
