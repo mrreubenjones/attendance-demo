@@ -20,5 +20,7 @@ ul {
 h1 {
   background-color: yellow;
   margin: 0;
+  display: inline-block;
+  border: 100px solid DeepPink;
 }
 
