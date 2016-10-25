@@ -4,11 +4,12 @@ body {
   width: 100vw;
   height: 100vh;
   font-family: Helvetica, sans-serif;
-
+  font-size: 5.4em;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-flow: column;
+  opacity: 0.8;
 }
 
 ul {
@@ -16,4 +17,8 @@ ul {
   list-style: none;
 }
 
+h1 {
+  background-color: yellow;
+  margin: 0;
+}
 
