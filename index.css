@@ -11,4 +11,10 @@ ul {
   list-style: none;
 }
 
+h1 {
+  display: inline-block;
+  border: 10px solid DeepPink;
+  font-weight: 100;
+}
+
 
